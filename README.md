@@ -1,8 +1,7 @@
 # rock-paper-scissor
 
-Built rock-paper-scissor using basic JavaScript
+Built rock-paper-scissor using basic JavaScript 
 
-Run the game in console. 
-
-You can play 5 games against computer. 
+You can play game against computer. 
+The Ist who wins 5 rounds wins the game.
 Computer chooses it's choice randomly and player gives choice manually.
